@@ -1,3 +1,3 @@
 def introduction(name)
-  puts "Hi my namme is #{Josh}."
+  puts "Hi my namme is #{name}."
 end
